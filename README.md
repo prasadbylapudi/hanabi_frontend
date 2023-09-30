@@ -1,8 +1,3 @@
-# MapsFrontend
-![locations](https://github.com/prasadbylapudi/MapsFrontend/assets/31813770/4b61588c-b673-4be5-acc2-5763de797981)
-
-![closer locatin](https://github.com/prasadbylapudi/MapsFrontend/assets/31813770/f9b92594-48b2-4ceb-affe-a672cfb04082)
-
 
 ### Tech Stack
 
